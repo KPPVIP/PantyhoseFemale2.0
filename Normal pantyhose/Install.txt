@@ -1,0 +1,15 @@
+---HOW TO INSTALL---
+
+Drop the files inside the folder "pantyhose" here:
+update\x64\dlcpacks\mpbattle\dlc1.rpf\x64\models\cdimages\mpbattle_female.rpf\mp_f_freemode_01_mp_f_battle
+
+
+Drop the files inside the folder "feet" here:
+update\x64\dlcpacks\mpbiker\dlc.rpf\x64\models\cdimages\mpbiker_female.rpf\mp_f_freemode_01_mp_f_bikerdlc_01
+
+Drop the files inside the folder "shoes" here:
+update\x64\dlcpacks\mpvalentines2\dlc.rpf\x64\models\cdimages\mpvalentines2_female.rpf\mp_f_freemode_01_mp_f_valentines_02
+
+Done!
+
+(Use a trainer to wear them in-game)

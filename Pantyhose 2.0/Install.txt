@@ -1,0 +1,8 @@
+---HOW TO INSTALL---
+
+Drop the files inside the folder "pantyhose" here:
+update\x64\dlcpacks\mpimportexport\dlc.rpf\x64\models\cdimages\mpimportexport_female.rpf\mp_f_freemode_01_mp_f_importexport_01
+
+Done!
+
+(Use a trainer to wear them in-game)
